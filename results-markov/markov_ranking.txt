@@ -1,0 +1,318 @@
+São Lourenço da Mata, PE, BRAZIL: 0.57
+Votorantim, SP, BRAZIL: 0.56
+Nossa Senhora do Socorro, SE, BRAZIL: 0.56
+Diadema, SP, BRAZIL: 0.55
+Franco da Rocha, SP, BRAZIL: 0.55
+Bento Gonçalves, RS, BRAZIL: 0.53
+Olinda, PE, BRAZIL: 0.53
+Santarém, PA, BRAZIL: 0.53
+Ilhéus, BA, BRAZIL: 0.53
+Itajaí, SC, BRAZIL: 0.53
+Caruaru, PE, BRAZIL: 0.53
+Jaboatão dos Guararapes, PE, BRAZIL: 0.52
+Sumaré, SP, BRAZIL: 0.52
+Salto, SP, BRAZIL: 0.52
+Itabira, MG, BRAZIL: 0.52
+Guarapuava, PR, BRAZIL: 0.52
+Serra, ES, BRAZIL: 0.52
+Queimados, RJ, BRAZIL: 0.52
+Paço do Lumiar, MA, BRAZIL: 0.52
+São Pedro da Aldeia, RJ, BRAZIL: 0.51
+Araucária, PR, BRAZIL: 0.51
+Rondonópolis, MT, BRAZIL: 0.51
+Linhares, ES, BRAZIL: 0.51
+Sabará, MG, BRAZIL: 0.51
+Parauapebas, PA, BRAZIL: 0.51
+Cubatão, SP, BRAZIL: 0.51
+Macapá, AP, BRAZIL: 0.51
+Maranguape, CE, BRAZIL: 0.50
+João Pessoa, PB, BRAZIL: 0.50
+Ribeirão Preto, SP, BRAZIL: 0.49
+Cotia, SP, BRAZIL: 0.49
+Brusque, SC, BRAZIL: 0.49
+Açailândia, MA, BRAZIL: 0.49
+Itapetininga, SP, BRAZIL: 0.49
+Cametá, PA, BRAZIL: 0.49
+Coronel Fabriciano, MG, BRAZIL: 0.49
+Porto Seguro, BA, BRAZIL: 0.48
+Itaituba, PA, BRAZIL: 0.48
+Cuiabá, MT, BRAZIL: 0.48
+Várzea Grande, MT, BRAZIL: 0.48
+Patos, PB, BRAZIL: 0.48
+Montes Claros, MG, BRAZIL: 0.48
+Itumbiara, GO, BRAZIL: 0.48
+Bacabal, MA, BRAZIL: 0.48
+Parnaíba, PI, BRAZIL: 0.47
+Trindade, GO, BRAZIL: 0.47
+Uruguaiana, RS, BRAZIL: 0.47
+Alvorada, RS, BRAZIL: 0.47
+Balneário Camboriú, SC, BRAZIL: 0.47
+Juazeiro do Norte, CE, BRAZIL: 0.47
+Teixeira de Freitas, BA, BRAZIL: 0.46
+Araguari, MG, BRAZIL: 0.46
+Anápolis, GO, BRAZIL: 0.46
+Marituba, PA, BRAZIL: 0.46
+São José dos Campos, SP, BRAZIL: 0.46
+Vila Velha, ES, BRAZIL: 0.46
+Rio Claro, SP, BRAZIL: 0.46
+Manaus, AM, BRAZIL: 0.46
+Santa Rita, PB, BRAZIL: 0.45
+Campinas, SP, BRAZIL: 0.45
+Vespasiano, MG, BRAZIL: 0.45
+Itapevi, SP, BRAZIL: 0.45
+Jaú, SP, BRAZIL: 0.44
+Ituiutaba, MG, BRAZIL: 0.44
+Presidente Prudente, SP, BRAZIL: 0.44
+Lavras, MG, BRAZIL: 0.44
+Toledo, PR, BRAZIL: 0.44
+Sarandi, PR, BRAZIL: 0.44
+Salvador, BA, BRAZIL: 0.44
+Crato, CE, BRAZIL: 0.44
+Santa Luzia, MG, BRAZIL: 0.44
+Umuarama, PR, BRAZIL: 0.44
+Paulo Afonso, BA, BRAZIL: 0.43
+Colombo, PR, BRAZIL: 0.43
+Luís Eduardo Magalhães, BA, BRAZIL: 0.43
+Timon, MA, BRAZIL: 0.43
+Rio das Ostras, RJ, BRAZIL: 0.43
+Mossoró, RN, BRAZIL: 0.43
+Barcarena, PA, BRAZIL: 0.42
+Feira de Santana, BA, BRAZIL: 0.42
+Altamira, PA, BRAZIL: 0.42
+Araras, SP, BRAZIL: 0.42
+Teresópolis, RJ, BRAZIL: 0.42
+Assis, SP, BRAZIL: 0.42
+Magé, RJ, BRAZIL: 0.42
+Resende, RJ, BRAZIL: 0.42
+Cariacica, ES, BRAZIL: 0.42
+Marabá, PA, BRAZIL: 0.42
+São Leopoldo, RS, BRAZIL: 0.42
+Belém, PA, BRAZIL: 0.41
+Lauro de Freitas, BA, BRAZIL: 0.41
+Ponta Grossa, PR, BRAZIL: 0.41
+Suzano, SP, BRAZIL: 0.41
+Birigui, SP, BRAZIL: 0.41
+Paulínia, SP, BRAZIL: 0.41
+Palhoça, SC, BRAZIL: 0.41
+Castanhal, PA, BRAZIL: 0.41
+Ubá, MG, BRAZIL: 0.41
+Apucarana, PR, BRAZIL: 0.40
+Arapongas, PR, BRAZIL: 0.40
+São Mateus, ES, BRAZIL: 0.40
+Santa Maria, RS, BRAZIL: 0.40
+Atibaia, SP, BRAZIL: 0.40
+Imperatriz, MA, BRAZIL: 0.40
+Santana, AP, BRAZIL: 0.39
+Ourinhos, SP, BRAZIL: 0.39
+Passos, MG, BRAZIL: 0.39
+Tubarão, SC, BRAZIL: 0.39
+Vitória, ES, BRAZIL: 0.39
+São Vicente, SP, BRAZIL: 0.39
+Itabaiana, SE, BRAZIL: 0.39
+Itapipoca, CE, BRAZIL: 0.38
+Botucatu, SP, BRAZIL: 0.38
+Barreiras, BA, BRAZIL: 0.38
+Blumenau, SC, BRAZIL: 0.38
+São Carlos, SP, BRAZIL: 0.38
+Macaé, RJ, BRAZIL: 0.38
+Sorriso, MT, BRAZIL: 0.38
+Dourados, MS, BRAZIL: 0.37
+Francisco Morato, SP, BRAZIL: 0.37
+Pouso Alegre, MG, BRAZIL: 0.37
+Canoas, RS, BRAZIL: 0.37
+Carapicuíba, SP, BRAZIL: 0.37
+Maricá, RJ, BRAZIL: 0.37
+Chapecó, SC, BRAZIL: 0.37
+Sertãozinho, SP, BRAZIL: 0.37
+Nova Friburgo, RJ, BRAZIL: 0.36
+Novo Gama, GO, BRAZIL: 0.36
+Jacareí, SP, BRAZIL: 0.36
+São Gonçalo, RJ, BRAZIL: 0.36
+Ribeirão das Neves, MG, BRAZIL: 0.36
+Bragança Paulista, SP, BRAZIL: 0.36
+Palmas, TO, BRAZIL: 0.36
+Taboão da Serra, SP, BRAZIL: 0.35
+Fortaleza, CE, BRAZIL: 0.35
+Juiz de Fora, MG, BRAZIL: 0.35
+São Bernardo do Campo, SP, BRAZIL: 0.35
+Camboriú, SC, BRAZIL: 0.35
+Curitiba, PR, BRAZIL: 0.35
+Mauá, SP, BRAZIL: 0.34
+Mesquita, RJ, BRAZIL: 0.34
+Jaraguá do Sul, SC, BRAZIL: 0.34
+Itabuna, BA, BRAZIL: 0.34
+Tatuí, SP, BRAZIL: 0.34
+Mogi das Cruzes, SP, BRAZIL: 0.34
+Igarassu, PE, BRAZIL: 0.34
+Alagoinhas, BA, BRAZIL: 0.34
+São José do Rio Preto, SP, BRAZIL: 0.34
+Ananindeua, PA, BRAZIL: 0.33
+São Paulo, SP, BRAZIL: 0.33
+Campo Largo, PR, BRAZIL: 0.33
+Sapucaia do Sul, RS, BRAZIL: 0.33
+Ribeirão Pires, SP, BRAZIL: 0.33
+Ipatinga, MG, BRAZIL: 0.33
+São João de Meriti, RJ, BRAZIL: 0.32
+Santana de Parnaíba, SP, BRAZIL: 0.32
+Garanhuns, PE, BRAZIL: 0.32
+Goiânia, GO, BRAZIL: 0.32
+Araruama, RJ, BRAZIL: 0.32
+Vitória da Conquista, BA, BRAZIL: 0.32
+Guarapari, ES, BRAZIL: 0.32
+Planaltina, GO, BRAZIL: 0.32
+Pinhais, PR, BRAZIL: 0.32
+Ji-Paraná, RO, BRAZIL: 0.31
+Araxá, MG, BRAZIL: 0.31
+Porto Alegre, RS, BRAZIL: 0.31
+Lages, SC, BRAZIL: 0.31
+Porto Velho, RO, BRAZIL: 0.31
+São José dos Pinhais, PR, BRAZIL: 0.31
+Hortolândia, SP, BRAZIL: 0.31
+Fazenda Rio Grande, PR, BRAZIL: 0.31
+Divinópolis, MG, BRAZIL: 0.31
+Caxias, MA, BRAZIL: 0.31
+Barretos, SP, BRAZIL: 0.30
+Betim, MG, BRAZIL: 0.30
+Barbacena, MG, BRAZIL: 0.30
+Breves, PA, BRAZIL: 0.30
+Guaratinguetá, SP, BRAZIL: 0.30
+Ibirité, MG, BRAZIL: 0.30
+Contagem, MG, BRAZIL: 0.30
+São José, SC, BRAZIL: 0.30
+Petrópolis, RJ, BRAZIL: 0.30
+Juazeiro, BA, BRAZIL: 0.29
+Itaboraí, RJ, BRAZIL: 0.29
+Guarulhos, SP, BRAZIL: 0.29
+Rio Branco, AC, BRAZIL: 0.29
+Eunápolis, BA, BRAZIL: 0.29
+Paragominas, PA, BRAZIL: 0.29
+Jundiaí, SP, BRAZIL: 0.28
+Brasília, DF, BRAZIL: 0.28
+Aracaju, SE, BRAZIL: 0.28
+Nova Serrana, MG, BRAZIL: 0.28
+Bagé, RS, BRAZIL: 0.28
+Itacoatiara, AM, BRAZIL: 0.28
+Indaiatuba, SP, BRAZIL: 0.28
+Cabo Frio, RJ, BRAZIL: 0.27
+Conselheiro Lafaiete, MG, BRAZIL: 0.27
+Valparaíso de Goiás, GO, BRAZIL: 0.27
+Abaetetuba, PA, BRAZIL: 0.27
+Camaçari, BA, BRAZIL: 0.27
+Foz do Iguaçu, PR, BRAZIL: 0.27
+Duque de Caxias, RJ, BRAZIL: 0.27
+Cachoeirinha, RS, BRAZIL: 0.27
+Paranaguá, PR, BRAZIL: 0.27
+Simões Filho, BA, BRAZIL: 0.27
+Itapecerica da Serra, SP, BRAZIL: 0.27
+Barra Mansa, RJ, BRAZIL: 0.26
+Araraquara, SP, BRAZIL: 0.26
+Teresina, PI, BRAZIL: 0.26
+Santa Cruz do Sul, RS, BRAZIL: 0.26
+Boa Vista, RR, BRAZIL: 0.26
+Araguaína, TO, BRAZIL: 0.26
+Paulista, PE, BRAZIL: 0.26
+Natal, RN, BRAZIL: 0.26
+Aparecida de Goiânia, GO, BRAZIL: 0.26
+Londrina, PR, BRAZIL: 0.26
+Vitória de Santo Antão, PE, BRAZIL: 0.26
+São Gonçalo do Amarante, RN, BRAZIL: 0.25
+Maringá, PR, BRAZIL: 0.25
+Piracicaba, SP, BRAZIL: 0.25
+Catalão, GO, BRAZIL: 0.25
+Balsas, MA, BRAZIL: 0.25
+Campo Grande, MS, BRAZIL: 0.25
+Caucaia, CE, BRAZIL: 0.24
+Muriaé, MG, BRAZIL: 0.24
+Viamão, RS, BRAZIL: 0.24
+Rio Verde, GO, BRAZIL: 0.24
+Almirante Tamandaré, PR, BRAZIL: 0.24
+Piraquara, PR, BRAZIL: 0.23
+Santo Antônio de Jesus, BA, BRAZIL: 0.23
+Taubaté, SP, BRAZIL: 0.23
+Angra dos Reis, RJ, BRAZIL: 0.23
+Águas Lindas de Goiás, GO, BRAZIL: 0.23
+Niterói, RJ, BRAZIL: 0.22
+Passo Fundo, RS, BRAZIL: 0.22
+Uberaba, MG, BRAZIL: 0.21
+Arapiraca, AL, BRAZIL: 0.21
+Araçatuba, SP, BRAZIL: 0.21
+Formosa, GO, BRAZIL: 0.21
+Santa Bárbara d'Oeste, SP, BRAZIL: 0.21
+Campina Grande, PB, BRAZIL: 0.21
+Poá, SP, BRAZIL: 0.20
+Rio de Janeiro, RJ, BRAZIL: 0.20
+Limeira, SP, BRAZIL: 0.20
+Governador Valadares, MG, BRAZIL: 0.20
+Catanduva, SP, BRAZIL: 0.20
+Cabo de Santo Agostinho, PE, BRAZIL: 0.20
+Belo Horizonte, MG, BRAZIL: 0.20
+Itanhaém, SP, BRAZIL: 0.20
+Criciúma, SC, BRAZIL: 0.20
+Novo Hamburgo, RS, BRAZIL: 0.19
+Colatina, ES, BRAZIL: 0.19
+Guarujá, SP, BRAZIL: 0.19
+Nilópolis, RJ, BRAZIL: 0.19
+Bauru, SP, BRAZIL: 0.18
+Sinop, MT, BRAZIL: 0.18
+Franca, SP, BRAZIL: 0.18
+Itatiba, SP, BRAZIL: 0.18
+Codó, MA, BRAZIL: 0.18
+Lagarto, SE, BRAZIL: 0.17
+Pindamonhangaba, SP, BRAZIL: 0.17
+Erechim, RS, BRAZIL: 0.17
+Três Lagoas, MS, BRAZIL: 0.17
+Teófilo Otoni, MG, BRAZIL: 0.16
+Praia Grande, SP, BRAZIL: 0.16
+Itaguaí, RJ, BRAZIL: 0.16
+Gravataí, RS, BRAZIL: 0.16
+Maceió, AL, BRAZIL: 0.15
+Jequié, BA, BRAZIL: 0.15
+Ferraz de Vasconcelos, SP, BRAZIL: 0.15
+Parnamirim, RN, BRAZIL: 0.15
+Volta Redonda, RJ, BRAZIL: 0.15
+Osasco, SP, BRAZIL: 0.15
+Poços de Caldas, MG, BRAZIL: 0.15
+Sete Lagoas, MG, BRAZIL: 0.14
+Americana, SP, BRAZIL: 0.14
+Luziânia, GO, BRAZIL: 0.14
+Uberlândia, MG, BRAZIL: 0.13
+São José de Ribamar, MA, BRAZIL: 0.13
+Patos de Minas, MG, BRAZIL: 0.13
+Maracanaú, CE, BRAZIL: 0.13
+Caraguatatuba, SP, BRAZIL: 0.13
+Itu, SP, BRAZIL: 0.13
+Camaragibe, PE, BRAZIL: 0.13
+Itaquaquecetuba, SP, BRAZIL: 0.12
+Caxias do Sul, RS, BRAZIL: 0.12
+Varginha, MG, BRAZIL: 0.12
+Joinville, SC, BRAZIL: 0.12
+Sorocaba, SP, BRAZIL: 0.12
+Valinhos, SP, BRAZIL: 0.11
+Santo André, SP, BRAZIL: 0.11
+São Luís, MA, BRAZIL: 0.11
+Rio Grande, RS, BRAZIL: 0.11
+Jataí, GO, BRAZIL: 0.10
+Pelotas, RS, BRAZIL: 0.10
+Manacapuru, AM, BRAZIL: 0.10
+Barueri, SP, BRAZIL: 0.09
+Nova Iguaçu, RJ, BRAZIL: 0.09
+Florianópolis, SC, BRAZIL: 0.09
+Cambé, PR, BRAZIL: 0.09
+Senador Canedo, GO, BRAZIL: 0.09
+Petrolina, PE, BRAZIL: 0.08
+Jandira, SP, BRAZIL: 0.08
+São Caetano do Sul, SP, BRAZIL: 0.07
+Marília, SP, BRAZIL: 0.07
+Cascavel, PR, BRAZIL: 0.07
+Itaperuna, RJ, BRAZIL: 0.06
+Tangará da Serra, MT, BRAZIL: 0.06
+Santos, SP, BRAZIL: 0.05
+Várzea Paulista, SP, BRAZIL: 0.05
+Belford Roxo, RJ, BRAZIL: 0.05
+Mogi Guaçu, SP, BRAZIL: 0.04
+Recife, PE, BRAZIL: 0.04
+Nova Lima, MG, BRAZIL: 0.04
+Cachoeiro de Itapemirim, ES, BRAZIL: 0.04
+Bragança, PA, BRAZIL: 0.03
+Campos dos Goytacazes, RJ, BRAZIL: 0.01
+Sobral, CE, BRAZIL: 0.00
