@@ -11,7 +11,10 @@ The project consists of three main components:
 - Uses sentence transformers to generate embeddings from crime descriptions
 - Produces visualizations of the semantic relationships between cities
 
+- Graph using the entire database assaltos.xlsx database:
 ![Semantic Graph](results-graph/semantic_graph.png)
+
+- Graph using 25 cities from the assaltos.xlsx database:
 ![Semantic Graph (25 cities)](results-graph/semantic_graph_25.png)
 
 ### 2. Community Analysis (`community_analysis.py`)
