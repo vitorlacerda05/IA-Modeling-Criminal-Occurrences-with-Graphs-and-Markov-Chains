@@ -1,6 +1,6 @@
 # Modeling Criminal Occurrences with Graphs and Markov Chains
 
-This project analyzes criminal occurrences in Brazilian cities using semantic graphs and Markov chains. It provides insights into crime patterns and relationships between different cities based on crime descriptions.
+This project implements an AI-based approach for analyzing criminal patterns using advanced Natural Language Processing (NLP) and graph theory techniques. It employs sentence transformers (specifically the multilingual MPNet model) for semantic embedding generation, graph theory for relationship modeling, and Markov chains for probabilistic analysis. The implementation combines these methods to create a connected semantic graph where nodes represent cities and edges reflect crime description similarities, followed by community detection using the Louvain method and probabilistic modeling through Markov chains. While the application focuses on criminal occurrences in Brazilian cities, the core implementation provides a robust framework for semantic relationship analysis and probabilistic modeling that can be adapted to various domains.
 
 ## Project Structure
 
