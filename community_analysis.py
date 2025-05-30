@@ -6,6 +6,7 @@ from community import community_louvain
 import os
 from collections import defaultdict
 import re
+import matplotlib
 
 def load_existing_data():
     """Load the existing graph and data."""
@@ -102,14 +103,30 @@ def visualize_communities(G, communities):
     plt.savefig('results-comunity/community_graph.png', dpi=300, bbox_inches='tight')
     plt.close()
 
-def save_community_analysis(community_analysis):
-    """Save community analysis results."""
+def get_community_colors(communities):
+    # Gera um dicionário comunidade -> cor (nome)
+    unique_communities = sorted(set(communities.values()))
+    cmap = plt.cm.rainbow
+    norm = matplotlib.colors.Normalize(vmin=0, vmax=len(unique_communities)-1)
+    color_names = []
+    for i in range(len(unique_communities)):
+        rgba = cmap(norm(i))
+        # Converte RGBA para nome aproximado
+        color_names.append(matplotlib.colors.to_hex(rgba))
+    # Mapeia comunidade para cor hex
+    community_to_color = {comm: color_names[i] for i, comm in enumerate(unique_communities)}
+    return community_to_color
+
+def save_community_analysis(community_analysis, communities):
+    community_to_color = get_community_colors(communities)
     with open('results-comunity/community_analysis.txt', 'w', encoding='utf-8') as f:
         f.write("Análise de Comunidades Criminais\n")
         f.write("==============================\n\n")
         
         for community_id, analysis in community_analysis.items():
-            f.write(f"Comunidade {community_id}\n")
+            color_hex = community_to_color.get(community_id, "#000000")
+            color_name = color_hex  # pode converter para nome se quiser
+            f.write(f"Comunidade {community_id} - cor {color_name}\n")
             f.write("-" * 50 + "\n")
             f.write(f"Total de crimes analisados: {analysis['total_crimes']}\n")
             f.write("Principais tipos de crimes:\n")
@@ -137,7 +154,7 @@ def main():
     
     # Save analysis
     print("Salvando resultados...")
-    save_community_analysis(community_analysis)
+    save_community_analysis(community_analysis, communities)
     
     print("Análise concluída! Resultados salvos em 'results-comunity/'")
 

@@ -1,7 +1,7 @@
 Análise de Comunidades Criminais
 ==============================
 
-Comunidade 0
+Comunidade 0 - cor #8000ff
 --------------------------------------------------
 Total de crimes analisados: 4926
 Principais tipos de crimes:
@@ -9,7 +9,7 @@ Principais tipos de crimes:
 - Crimes com violência armada: 702 ocorrências
 - Crimes com veículos: 664 ocorrências
 
-Comunidade 2
+Comunidade 1 - cor #2adddd
 --------------------------------------------------
 Total de crimes analisados: 2528
 Principais tipos de crimes:
@@ -17,7 +17,7 @@ Principais tipos de crimes:
 - Crimes com veículos: 350 ocorrências
 - Crimes com violência armada: 341 ocorrências
 
-Comunidade 1
+Comunidade 2 - cor #d4dd80
 --------------------------------------------------
 Total de crimes analisados: 6138
 Principais tipos de crimes:
@@ -25,7 +25,7 @@ Principais tipos de crimes:
 - Crimes com violência armada: 862 ocorrências
 - Crimes com veículos: 848 ocorrências
 
-Comunidade 3
+Comunidade 3 - cor #ff0000
 --------------------------------------------------
 Total de crimes analisados: 2044
 Principais tipos de crimes:
