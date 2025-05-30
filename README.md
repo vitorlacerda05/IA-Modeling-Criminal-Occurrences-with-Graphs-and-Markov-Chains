@@ -10,26 +10,23 @@ The project consists of three main components:
 - Creates a semantic graph connecting cities based on similar crime patterns
 - Uses sentence transformers to generate embeddings from crime descriptions
 - Produces visualizations of the semantic relationships between cities
-- Outputs:
-  - `semantic_graph.png`: Complete graph visualization
-  - `semantic_graph_25.png`: Graph visualization for 25 sampled cities
-  - Adjacency matrices and similarity scores
+
+![Semantic Graph](results-graph/semantic_graph.png)
+![Semantic Graph (25 cities)](results-graph/semantic_graph_25.png)
 
 ### 2. Community Analysis (`community_analysis.py`)
 - Detects communities within the semantic graph using the Louvain method
 - Analyzes crime patterns within each community
 - Categorizes crimes into different types (drug-related, armed violence, etc.)
-- Outputs:
-  - `community_graph.png`: Visualization of detected communities
-  - Detailed analysis of crime patterns per community
+
+![Community Graph](results-comunity/community_graph.png)
 
 ### 3. Markov Chain Analysis (`markov_analysis.py`)
 - Implements a Markov chain model to analyze crime patterns
 - Calculates stationary probabilities for cities
 - Simulates crime propagation paths
-- Outputs:
-  - `markov_probabilidades.png`: Top 20 cities by crime probability
-  - Markov transition matrices and rankings
+
+![Markov Probabilities](results-markov/markov_probabilidades.png)
 
 ## Setup and Installation
 
